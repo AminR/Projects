@@ -1,0 +1,13 @@
+F:\Amin.Rahkan7@gmail.com\1  Programming\1   My Project\C#\Factor Forosh (Majid Chamani)(Amin)\Faktore Frosh (AminRahkan.ir)\software\bin\Debug\software.exe
+F:\Amin.Rahkan7@gmail.com\1  Programming\1   My Project\C#\Factor Forosh (Majid Chamani)(Amin)\Faktore Frosh (AminRahkan.ir)\software\bin\Debug\software.pdb
+F:\Amin.Rahkan7@gmail.com\1  Programming\1   My Project\C#\Factor Forosh (Majid Chamani)(Amin)\Faktore Frosh (AminRahkan.ir)\software\obj\Debug\ResolveAssemblyReference.cache
+F:\Amin.Rahkan7@gmail.com\1  Programming\1   My Project\C#\Factor Forosh (Majid Chamani)(Amin)\Faktore Frosh (AminRahkan.ir)\software\obj\Debug\software.AboutBox1.resources
+F:\Amin.Rahkan7@gmail.com\1  Programming\1   My Project\C#\Factor Forosh (Majid Chamani)(Amin)\Faktore Frosh (AminRahkan.ir)\software\obj\Debug\software.Form1.resources
+F:\Amin.Rahkan7@gmail.com\1  Programming\1   My Project\C#\Factor Forosh (Majid Chamani)(Amin)\Faktore Frosh (AminRahkan.ir)\software\obj\Debug\software.Form2.resources
+F:\Amin.Rahkan7@gmail.com\1  Programming\1   My Project\C#\Factor Forosh (Majid Chamani)(Amin)\Faktore Frosh (AminRahkan.ir)\software\obj\Debug\software.Properties.Resources.resources
+F:\Amin.Rahkan7@gmail.com\1  Programming\1   My Project\C#\Factor Forosh (Majid Chamani)(Amin)\Faktore Frosh (AminRahkan.ir)\software\obj\Debug\software.splash.resources
+F:\Amin.Rahkan7@gmail.com\1  Programming\1   My Project\C#\Factor Forosh (Majid Chamani)(Amin)\Faktore Frosh (AminRahkan.ir)\software\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Amin.Rahkan7@gmail.com\1  Programming\1   My Project\C#\Factor Forosh (Majid Chamani)(Amin)\Faktore Frosh (AminRahkan.ir)\software\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Amin.Rahkan7@gmail.com\1  Programming\1   My Project\C#\Factor Forosh (Majid Chamani)(Amin)\Faktore Frosh (AminRahkan.ir)\software\obj\Debug\software.exe
+F:\Amin.Rahkan7@gmail.com\1  Programming\1   My Project\C#\Factor Forosh (Majid Chamani)(Amin)\Faktore Frosh (AminRahkan.ir)\software\obj\Debug\software.pdb
+F:\Amin.Rahkan7@gmail.com\1  Programming\1   My Project\C#\Factor Forosh (Majid Chamani)(Amin)\Faktore Frosh (AminRahkan.ir)\software\obj\Debug\GenerateResource-ResGen.read.4.tlog
